@@ -39,8 +39,5 @@ public class Main {
         System.out.println();
         System.out.println(fable.hashCode());
         System.out.println(fable2.hashCode());
-
-
-
     }
 }
